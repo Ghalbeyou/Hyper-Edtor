@@ -1,4 +1,7 @@
 # Hyper Editor
+THIS PROJECT IS NOT UPDATED ANYMORE.
+
+
 Edit multi files once!
 
 
